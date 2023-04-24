@@ -21,6 +21,7 @@ const minimumWaitingTime = (arr) => {
 
 
     // Другое решение
+
     // for (let i = 0; i < arr.length; i++) {
     //     const queriesLeft = arr.length + (i - 1)
     //     waitingTime += queriesLeft * arr[i]
